@@ -1,2 +1,3 @@
 # IBG
-All My Projects
+This is a repository to showcase my learning as a student programmer.
+
